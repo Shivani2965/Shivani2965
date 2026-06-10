@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>* Full-Stack Web Development projects<br>* Daily DSA practice<br>* Building a strong developer portfolio<br><br>👯 I’m looking to collaborate on<br><br>* Open Source projects<br>* Web Development applications<br>* Innovative student-led tech projects<br><br>🤝 I’m looking for help with<br><br>* Open Source contributions<br>* Scalable application development<br>* AI/ML project ideas<br><br>🌱 I’m currently learning<br><br>* Angular<br>* MERN full stack<br>* Data Structures & Algorithms<br>* Machine Learning<br>* System Design fundamentals<br><br><br>⚡ Fun fact<br>I love turning ideas into projects and believe the best way to learn is by building.<br>
+
+# Hi, I'm Shivani 👋
+
+🎓 IT Student graduating in 2027
+
+💻 Passionate about Web Development, DSA, and AI/ML
+
+🌱 Currently learning Angular, Data Structures & Algorithms, and exploring Machine Learning
+
+🚀 Building projects, contributing to Open Source, and preparing for internship opportunities
 
 
 ## 🌐 Socials:
